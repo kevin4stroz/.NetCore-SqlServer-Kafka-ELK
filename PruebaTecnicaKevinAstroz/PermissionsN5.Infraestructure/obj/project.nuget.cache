@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0LT5aMJ+C8dcMdvDaC2d7fTbS1hDBzNXB3Cn3z17KD+k6xU368IQPKUDyc7Zq3Gle6v+zp7QOMmolLlFsBow3g==",
+  "dgSpecHash": "aUXleqNJs1yy3hbuzdsOdRYAjPtTOG768U95f5bAYlc7CadyzKBkmu/G2ZMehhfeNZuf2Hj5JmA3BNyTmTXirQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Infraestructure\\PermissionsN5.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Infraestructure\\PermissionsN5.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KQuirogaA\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
     "C:\\Users\\KQuirogaA\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",

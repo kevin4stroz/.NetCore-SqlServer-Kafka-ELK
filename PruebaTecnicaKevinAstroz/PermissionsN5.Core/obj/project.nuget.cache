@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "40hnOHHMjkOrGR5T6p/ui03ijnEYv1Qi9fVmV2Iuqzni7aeUaDR7YMOjVOLid8PglnQ1uBXnLfPlPRWYlP+6/w==",
+  "dgSpecHash": "nDj+9bvArnaYarzp4R+jmYPQjMGnTor1ON5UAWGAL61ohSq2LE+O6NzxLRuHdKphwteRL3o66cMVpdfk/pZQbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj",
+  "projectFilePath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

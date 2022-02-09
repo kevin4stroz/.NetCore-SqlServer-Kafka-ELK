@@ -30,6 +30,7 @@
       "commandName": "Docker",
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "DockerfileRunArguments": "--net=netcore-sqlserver-kafka-elk_solucion",
       "publishAllPorts": true,
       "useSSL": true
     }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj",
+      "projectUniqueName": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj",
       "projectName": "PermissionsN5.Core",
-      "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj",
+      "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj",
       "packagesPath": "C:\\Users\\KQuirogaA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\obj\\",
+      "outputPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

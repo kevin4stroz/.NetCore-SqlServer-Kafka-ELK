@@ -6555,11 +6555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Api\\PermissionsN5.Api.csproj",
+      "projectUniqueName": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Api\\PermissionsN5.Api.csproj",
       "projectName": "PermissionsN5.Api",
-      "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Api\\PermissionsN5.Api.csproj",
+      "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Api\\PermissionsN5.Api.csproj",
       "packagesPath": "C:\\Users\\KQuirogaA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Api\\obj\\",
+      "outputPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6583,11 +6583,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj": {
-              "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj"
+            "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj": {
+              "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Core\\PermissionsN5.Core.csproj"
             },
-            "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Infraestructure\\PermissionsN5.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\PruebaTecnicaKevinAstroz\\PermissionsN5.Infraestructure\\PermissionsN5.Infraestructure.csproj"
+            "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Infraestructure\\PermissionsN5.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_TECNICA\\solucion\\.NetCore-SqlServer-Kafka-ELK\\PruebaTecnicaKevinAstroz\\PermissionsN5.Infraestructure\\PermissionsN5.Infraestructure.csproj"
             }
           }
         }
