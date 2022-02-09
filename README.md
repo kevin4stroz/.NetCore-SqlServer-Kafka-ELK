@@ -52,3 +52,4 @@ ModifyPermissions
 ## Indice elasticsearch
 ![imagen](img/IndicesELK.png)
 ## Mensajes kafka
+![imagen](img/Kafka.png)
