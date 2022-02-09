@@ -23,33 +23,33 @@ entrar a la shell de kafka y obtener mensajes enviados
 
 verificar que en el launchSetting.json se agrega el contenedor a la red del docker-compuse
 
-![imagen](img/launch.png)
+![imagen](Img/launch.png)
 
 ## Contenedores
 
-![imagen](img/Contenedores.png)
+![imagen](Img/Contenedores.png)
 
 ## Endpoints
 
 GetPermissions
 
-![imagen](img/GetPermissions.png)
+![imagen](Img/GetPermissions.png)
 
 RequestPermissions
 
-![imagen](img/RequestPermissions.png)
+![imagen](Img/RequestPermissions.png)
 
 ModifyPermissions
 
-![imagen](img/ModifyPermissions.png)
+![imagen](Img/ModifyPermissions.png)
 
 ## Documentacion de API
 
-![imagen](img/Swagger.png)
+![imagen](Img/Swagger.png)
 ## Logs de webapi
 
-![imagen](img/LogsAplicacion.png)
+![imagen](Img/LogsAplicacion.png)
 ## Indice elasticsearch
-![imagen](img/IndicesELK.png)
+![imagen](Img/IndicesELK.png)
 ## Mensajes kafka
-![imagen](img/Kafka.png)
+![imagen](Img/Kafka.png)
