@@ -1,0 +1,106 @@
+services:
+  # CONTENEDOR DATABASE SERVER MSSQL
+  sqldata:
+    container_name: SqlServerContainer
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    environment:
+      - SA_PASSWORD=Pru3baTecnica!!
+      - ACCEPT_EULA=Y
+    ports:
+      - "5434:1433"
+    volumes:
+      - ./Containers/Data/sqlserver:/var/opt/mssql/data
+    networks:
+      - solucion
+
+
+  # CONTENEDOR ZOOKEEPER
+  zookeeper:
+    container_name: ZooKeeperContainer
+    image: confluentinc/cp-zookeeper:latest
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - 22181:2181
+    volumes:
+      - ./Containers/Data/kafka/zk-data:/var/lib/zookeeper/data
+    networks:
+      - solucion 
+
+
+  # CONTENEDOR KAFKA MESSAGE QUEUING 
+  kafka:
+    container_name: KafkaContainer
+    image: confluentinc/cp-kafka:latest
+    depends_on:
+      - zookeeper
+    ports:
+      - 29092:29092
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+    volumes:
+      - ./Containers/Data/kafka/kafka-data:/var/lib/kafka/data 
+    networks:
+      - solucion
+
+  # CONTENEDOR ELASTIC
+  elasticsearch:
+    container_name: ElasticContainer
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.15.1
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=true
+      - ELASTIC_PASSWORD=n5elasticsearch
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    mem_limit: 1g
+    volumes:
+      - ./Containers/Data/elk:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - solucion
+
+
+  # CONTENEDOR CEREBRO
+  cerebro:
+    container_name: CerebroContainer
+    image: lmenezes/cerebro:latest
+    depends_on:
+      - elasticsearch
+    links:
+      - elasticsearch
+    volumes:
+      - ./Containers/CerebroELK/application.conf:/opt/cerebro/conf/application.conf
+    ports:
+      - "9000:9000"
+    networks:
+      - solucion
+
+
+  # CONTENEDOR DE WEBAPI
+  #web-api:
+  #  build : 
+  #    context: .
+  #    dockerfile: PermissionsN5.Api/Dockerfile
+  #  restart : always
+  #  ports:
+  #    - 7000:80
+  #  depends_on: 
+  #    - elasticsearch
+  #    - sqldata
+  #  networks:
+  #    - solucion
+
+
+# RED DE SOLUCION
+networks:
+  solucion: {}

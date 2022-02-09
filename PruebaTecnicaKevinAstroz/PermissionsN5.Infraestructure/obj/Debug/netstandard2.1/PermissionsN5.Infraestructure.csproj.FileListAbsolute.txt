@@ -1,0 +1,12 @@
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\bin\Debug\netstandard2.1\PermissionsN5.Infraestructure.deps.json
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\bin\Debug\netstandard2.1\PermissionsN5.Infraestructure.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\bin\Debug\netstandard2.1\PermissionsN5.Infraestructure.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\bin\Debug\netstandard2.1\PermissionsN5.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\bin\Debug\netstandard2.1\PermissionsN5.Core.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.AssemblyInfo.cs
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.csproj.CopyComplete
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Infraestructure\obj\Debug\netstandard2.1\PermissionsN5.Infraestructure.pdb

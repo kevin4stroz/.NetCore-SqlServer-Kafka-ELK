@@ -1,0 +1,1 @@
+kafka-console-consumer --bootstrap-server kafka:29092 --topic N5PERMISSIONS --from-beginning

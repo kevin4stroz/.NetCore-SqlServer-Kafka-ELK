@@ -1,0 +1,9 @@
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\bin\Debug\netstandard2.1\PermissionsN5.Core.deps.json
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\bin\Debug\netstandard2.1\PermissionsN5.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\bin\Debug\netstandard2.1\PermissionsN5.Core.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\obj\Debug\netstandard2.1\PermissionsN5.Core.csproj.AssemblyReference.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\obj\Debug\netstandard2.1\PermissionsN5.Core.AssemblyInfoInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\obj\Debug\netstandard2.1\PermissionsN5.Core.AssemblyInfo.cs
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\obj\Debug\netstandard2.1\PermissionsN5.Core.csproj.CoreCompileInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\obj\Debug\netstandard2.1\PermissionsN5.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_TECNICA\solucion\PruebaTecnicaKevinAstroz\PermissionsN5.Core\obj\Debug\netstandard2.1\PermissionsN5.Core.pdb
